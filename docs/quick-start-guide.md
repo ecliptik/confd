@@ -90,7 +90,7 @@ curl -k -X PUT -d 'value' https://mesh-01:8443/api/kv/key --header "Authorizatio
 
 #### rancher
 
-This backend consumes the Rancher Container Service metadata. For available keys see [rancher metadata docs](http://docs.rancher.com/rancher/metadata-service/)
+This backend consumes the Rancher Container Service metadata. For available keys see [rancher metadata docs](http://docs.rancher.com/rancher/rancher-services/metadata-service/)
 
 ### Create the confdir
 
